@@ -1,0 +1,7 @@
+{
+  "title": "HTML页面的标题",
+  "publicPath": "./",
+  "locationPath": "demo/my-full-entry-page",
+  "layout": null,
+  "appJsInject": "body"
+}
